@@ -1,4 +1,4 @@
-# Getting Started with Create React App https://kubaw00.github.io/React-Todo-app-with-local-storage/
+# Getting Started with Create React App https://kubaw00.github.io/React-Todo-app-with-localstorage/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
